@@ -4,12 +4,6 @@ A React + TypeScript app that generates 50 CSS-filtered image variations using T
 
 ## 🚀 Setup
 
-```bash
-npm install
-npm run dev
-Here’s a suggested **README.md** for your fifty‑shades‑react project. You can copy it into your GitHub repo root (or modify as needed).
-
----
 
 # fifty-shades-react 🌈
 
